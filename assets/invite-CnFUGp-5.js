@@ -1,1 +1,0 @@
-import{_ as a,c as s,u as c,a as n,b as r,o as i}from"./index-Bup7W4Ta.js";const _={class:"invite-page"},u={__name:"invite",setup(p){const e=c(),t=n(),o=s(()=>e.params.inviteCode);return localStorage.setItem("inviteCode",o.value),t.replace("/"),(d,l)=>(i(),r("div",_))}},m=a(u,[["__scopeId","data-v-dadebea9"]]);export{m as default};
